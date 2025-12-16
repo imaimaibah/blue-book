@@ -360,6 +360,7 @@ nav:
               - Bash:
                   - Bash snippets: bash_snippets.md
                   - Bash testing: bats.md
+                  - Bash Tips: bash_tips.md
               - lua: lua.md
               - JSON: coding/json/json.md
               - SQL: coding/sql/sql.md
