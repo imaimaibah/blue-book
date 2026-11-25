@@ -4,7 +4,7 @@
 [metadata]
 groups = ["default"]
 strategy = []
-lock_version = "4.5.0"
+lock_version = "4.5.1"
 content_hash = "sha256:14f77b038e41422589c414b5bfdc4a4600519f2675f63e327fd5d0cce1312f34"
 
 [[metadata.targets]]
